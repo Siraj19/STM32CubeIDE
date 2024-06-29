@@ -1,0 +1,10 @@
+18:50:20 **** Incremental Build of configuration Debug for project STM32F401CDU6_I2C_MASTER ****
+make -j12 all 
+arm-none-eabi-size  STM32F401CDU6_I2C_MASTER.elf 
+   text	   data	    bss	    dec	    hex	filename
+  15000	     24	   1656	  16680	   4128	STM32F401CDU6_I2C_MASTER.elf
+Finished building: default.size.stdout
+ 
+
+18:50:20 Build Finished. 0 errors, 0 warnings. (took 196ms)
+

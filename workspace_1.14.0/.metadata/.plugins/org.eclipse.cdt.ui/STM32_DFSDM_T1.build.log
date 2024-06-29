@@ -1,0 +1,10 @@
+18:50:21 **** Incremental Build of configuration Debug for project STM32_DFSDM_T1 ****
+make -j12 all 
+arm-none-eabi-size  STM32_DFSDM_T1.elf 
+   text	   data	    bss	    dec	    hex	filename
+  21856	     20	  44660	  66536	  103e8	STM32_DFSDM_T1.elf
+Finished building: default.size.stdout
+ 
+
+18:50:22 Build Finished. 0 errors, 0 warnings. (took 248ms)
+

@@ -1,0 +1,10 @@
+18:50:20 **** Incremental Build of configuration Debug for project STM32F401CDU6_PWM ****
+make -j12 all 
+arm-none-eabi-size  STM32F401CDU6_PWM.elf 
+   text	   data	    bss	    dec	    hex	filename
+  14048	     20	  65252	  79320	  135d8	STM32F401CDU6_PWM.elf
+Finished building: default.size.stdout
+ 
+
+18:50:21 Build Finished. 0 errors, 0 warnings. (took 209ms)
+
